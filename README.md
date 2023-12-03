@@ -1,5 +1,0 @@
-# Spotify-Clone
-
-#Output
-
-
